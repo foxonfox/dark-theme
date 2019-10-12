@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.sn-solarized-dark-theme",
+  "name": "Solarized dark",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.2.1",
+  "description": "Solarized dark colored theme",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/sn-solarized-dark-theme@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/sn-solarized-dark-theme/archive/1.2.1.zip",
+  "latest_url": "https://listed.to/p/3ti0Ew2s2V",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#8be9fd",
+      "foreground_color": "#8be9fd",
+      "border_color": "#8be9fd"
+      },
+      "statusBar": "dark-content"
+}
