@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-solarized-dark",
+  "name": "sn-solarized-dark-theme",
   "version": "1.2.1",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sn-extensions/solarized-dark-theme.git"
+    "url": "git://github.com/foxonfox/sn-solarized-dark-theme.git"
   }
 }
